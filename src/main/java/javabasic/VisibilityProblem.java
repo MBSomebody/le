@@ -1,4 +1,4 @@
-package main.java.javabasic;
+package javabasic;
 
 class SharedResource {
     private volatile boolean flag = false;

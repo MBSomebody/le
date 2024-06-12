@@ -1,4 +1,4 @@
-package main.java.javabasic;
+package javabasic;
 
 import java.io.*;
 import java.net.ServerSocket;

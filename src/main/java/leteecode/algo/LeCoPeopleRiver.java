@@ -1,5 +1,4 @@
-package main.java.leteecode.algo;
-
+package leteecode.algo;
 
 import java.util.*;
 
